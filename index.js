@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
         message: 'Funciona',
         nombre: 'Sebastian Levi Velásquez Valle',
         carnet: 202300580,
-        musica_Favorita: 'Pieces - Avaion'
+        album_favorito: 'TO MAKE PEOPLE HAPPY'
    });
 });
 
